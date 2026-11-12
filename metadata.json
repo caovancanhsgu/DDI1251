@@ -1,0 +1,8 @@
+{
+  "name": "DDI1251 - ÔN THI HỌC PHẦN",
+  "description": "Sư phạm Địa lí - Trường Đại học Sài Gòn",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
